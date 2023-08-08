@@ -10,4 +10,3 @@
 [![](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://github.com/KaiqueSouza?tab=overview&from=2023-08-01&to=2023-08-08)
 [![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)](https://github.com/KaiqueSouza?tab=overview&from=2023-08-01&to=2023-08-08)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username={KaiqueSouza}&theme=blue-green)]
